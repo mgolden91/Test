@@ -6,3 +6,11 @@ a {
   font-weight: bold;
   color: red;
 }
+
+ul.beers {
+  margin: 0 0 0 -40px;
+}
+
+ul.beers > li {
+  display: block;
+}
